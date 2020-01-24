@@ -1,0 +1,617 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": " Icelandic Coast Guard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.992527550833312,
+          -22.876497569894592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": " JRCC Greenland (AIR)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.409922292614684,
+          -21.900010355043626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "Alaska Rescue Coordination Center "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.625664534928823,
+          7.340491851164367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "JRCC Juneau "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.62860267411377,
+          -0.303243305840045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "JRCC Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.42320595159995,
+          -8.493985093837711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "JRCC Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.1026776904327,
+          -9.420222760199424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "JRCC Stavanger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.899433806444375,
+          -19.198126811344114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": " MRCC Murmansk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.22955266420793,
+          -4.270564474518663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "MSRC Arkangel'sk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.069516988845443,
+          -1.974557537073014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname ": "SRR Iceland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.110556223520977,
+          -21.29621410786709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "UK SRR Northern Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.571927110814165,
+          -20.928687099394097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "MRCC Stornoway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.79362131809338,
+          -24.04176279189406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "MRCC Aberdeen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.028001154541194,
+          -22.798904421723854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "MRSC Tiksi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.923111342585013,
+          17.628369634145592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "MRSC Pevek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.52899803828338,
+          16.055949469861936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "SAR Svalbard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.011625158632793,
+          -5.627001282013453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "SRR Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.006670386701966,
+          -18.113380647430528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "JRCC Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.01169100544102,
+          -17.310864733393135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "RCC Glücksburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.773445582317795,
+          -20.119757274828906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": " MRSC Swinoujscie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.154642795225815,
+          -18.26277786380052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "JRCC Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.801517828716616,
+          -18.97704204860993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": " Witowo (SPS)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.499870381550206,
+          -17.093712856703764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": " MRCC Gdynia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.06827510287995,
+          -15.68111677951407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": " MRCC Kaliningrad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.23769541402405,
+          -14.532846600546145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "MRCC Riga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.859920572281588,
+          -11.69630415925732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "MRCC Sankt Peterburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.915097078195608,
+          -7.563512332515358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": " JRCC Tallinn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.529579388864356,
+          -10.477419247275831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "SAR Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.843791605540424,
+          -10.132834854986408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "MRCC Turku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.085228500868492,
+          -11.273604479343813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": " ARCC Finland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.368892401543114,
+          -10.192992310580149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "RCC "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.820901182089488,
+          -39.343548715539214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "JRCC Trenton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.81384017823586,
+          -37.065321184168674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "JRCC Halifax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.792385512820022,
+          -40.20762547422141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": "MRCC Dikson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7948427549648,
+          9.867495467352043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname": " JRCC BODO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.269307880842828,
+          -11.335353000368464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "icon":"SARmap",
+        "sarname ": "MRSC Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.49707196347841,
+          -36.671054303434616
+        ]
+      }
+    }
+  ]
+}
